@@ -1,0 +1,26 @@
+{
+    "beam_diameter": "2.5", 
+    "cleanup_duration": 60.0, 
+    "commit": "da33cb55cbfafa50b7940f0df325f98ecc201b5f", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 30.0, 
+    "extract_units": "watts", 
+    "extract_value": 7.0, 
+    "pattern": "square_37hole.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "26", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "IWivTgAAAAAA5VM9AAD6RBNfA0AAAPpECOeBQAAA+kRRIsJAAAD6RNsmAUEAAPpEoT0hQQAA+kQ1WUFBAAD6RDVYYUEAAPpEKreAQQAA+kTCxJBBAAD6RErVoEEAAPpEHuOwQQAA+kSi78BBAAD6RKH80EEAAPpE+QDhQQAA+kQIBvFBAAD6RLSCAEIAAPpE", 
+    "response": "IWivTgAAAAAA5VM9+UnCQRNfA0AAAAAACOeBQAAAAABRIsJA2FLLQdsmAUHYUstBoT0hQdhSy0E1WUFB2FLLQTVYYUHYUstBKreAQdhSy0HCxJBB2FLLQUrVoEHYUstBHuOwQdhSy0Gi78BB2FLLQaH80EHYUstB+QDhQdhSy0EIBvFB2FLLQbSCAELYUstB", 
+    "sblob": "", 
+    "tray": "", 
+    "weight": 16.03
+}
